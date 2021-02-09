@@ -130,7 +130,7 @@ let attack = new Image();
 attack.src = "/images/attack-1.png";
 
 let tree = new Image();
-tree.src = "/png-objects/tree.png";
+tree.src = "/png-objects/tree.png"; 
 
 let box = new Image();
 box.src = "/png-objects/box.png";
